@@ -9,3 +9,5 @@ evm_version = "cancun"
 
 
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
+[etherscan]
+sepolia = { key = "K26KZ6WB4CYCVNHMEFFWWT9YG23DCIGW15" }
